@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">USSD</string>
+    <string name="accessibility_service_description">Used to make USSD transactions</string>
+</resources>
